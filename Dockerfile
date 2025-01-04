@@ -10,3 +10,5 @@ RUN npm install --omit=dev
 USER roboshop
 EXPOSE 8080
 CMD ["node", "server.js"]
+
+
